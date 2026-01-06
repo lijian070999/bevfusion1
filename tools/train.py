@@ -1,7 +1,7 @@
 # copyright OpenMMLab. All rights reserved.
 
-##### test uouououo
-
+##### test GIT
+#### tst GIT 2
 import argparse
 import copy
 import os
